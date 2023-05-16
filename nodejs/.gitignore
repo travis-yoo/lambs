@@ -1,0 +1,7 @@
+.DS_STORE
+/tmp
+.env
+build
+node_modules
+package-lock.json
+yarn.lock

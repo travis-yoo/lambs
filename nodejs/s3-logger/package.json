@@ -1,0 +1,19 @@
+{
+  "name": "s3-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.332.0",
+    "@aws-sdk/credential-provider-env": "^3.329.0",
+    "aws-sdk": "^2.1378.0",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4"
+  }
+}
